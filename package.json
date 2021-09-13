@@ -1,5 +1,5 @@
 {
-  "name": "motivational-messages",
+  "name": "motivational-messages-ko",
   "version": "1.0.0",
   "description": "Es un package de mensajes random",
   "main": "src/index.js",
