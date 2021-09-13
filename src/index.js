@@ -10,5 +10,5 @@ const randomMsg = ( ) => {
         messages.length)];
         console.log(message);
 };
-/*Aqui se exporta el modulo*/
+/*Aqui se exporta el modulo */
 module.exports = {randomMsg};
