@@ -1,8 +1,12 @@
 const messages = [
-    "Oscar",
-    "Francisco",
-    "Laura",
-    "Karol"
+    "Te quiero",
+    "Ten Disciplina",
+    "Guapa",
+    "Ella si te ama",
+    "Eres el mejor",
+    "Esfuerzate más",
+    "Lo puedes lograr",
+    "Me gusta lo que haces"
 ];
 
 const randomMsg = ( ) => {
