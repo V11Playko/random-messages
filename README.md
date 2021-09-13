@@ -1,2 +1,2 @@
 # random-messages
-Es un package para hacer mensajes randoms
+Es un packageque te muestra mensajes randoms de motivacion.
