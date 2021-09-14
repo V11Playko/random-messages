@@ -1,7 +1,7 @@
 {
   "name": "motivational-messages-ko",
   "version": "1.0.0",
-  "description": "Es un package de mensajes random",
+  "description": "This is a package that is about giving motivational randoms messages for the sake of incentivizing people",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
